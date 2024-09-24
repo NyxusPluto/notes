@@ -23,6 +23,13 @@ git commit -m "Add <file name>"
 
 git status
 
+when editing go through the same prosces but use git commit "Edit
+
+to push work to github type
+git push origin main
+
+git status should say brantch is up to date
+
 
 
 
