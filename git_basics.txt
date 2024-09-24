@@ -1,0 +1,29 @@
+git basics,
+
+make a new repostory on github
+
+get SHH code
+
+cd repos/
+
+git clone
+
+cd /<repo name>
+
+git remote -v
+
+if you adda file to the repostory do these commands:
+
+create file in repostory
+
+git add <file name> 
+
+
+git commit -m "Add <file name>"
+
+git status
+
+
+
+
+
